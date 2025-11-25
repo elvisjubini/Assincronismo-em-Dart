@@ -1,4 +1,4 @@
-<h1>Treinamento Assincronismo</h1>
+<h1>Projeto Banco D'Ouro</h1>
 
 <h2>📝 Sobre</h2>
 <p>Projeto BANCO D'OURO desenvolvido no curso de Assincronismo em DART.</p>
