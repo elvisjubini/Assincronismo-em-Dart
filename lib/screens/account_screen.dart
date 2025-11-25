@@ -19,7 +19,18 @@ class AccountScreen {
 
 
   void runChatBot() async {
+
+print (" ____    _    _   _  ____ ___    ____  _  ___  _   _ ____   ___  ");
+print ("| __ )  / |  | | | |/ ___/ _ |  |  _ || )/ _ || | | |  _ | / _ | ");
+print ("|  _ | / _ | |  || | |  | | | | | | | |/| | | | | | | |_) | | | |");
+print ("| |_) / ___ || ||  | |__| |_| | | |_| | | |_| | |_| |  _ <| |_| |");
+print ("|____/_/   |_|_| |_||____|___/  |____/   |___/ |___/|_| |_||__/ ");
+print("");
+print("");
+
+
     print("Bom dia! Eu sou o Lewis, assistente do Banco d'Ouro!");
+    print("");
     print("Que bom te ter aqui com a gente.\n");
 
     bool isRunning = true;
