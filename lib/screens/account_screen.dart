@@ -29,7 +29,7 @@ print("");
 print("");
 
 
-    print("Bom dia! Eu sou o Lewis, assistente do Banco d'Ouro!");
+    print("Bom dia! Eu sou o Elvis, assistente do Banco d'Ouro!");
     print("");
     print("Que bom te ter aqui com a gente.\n");
 
